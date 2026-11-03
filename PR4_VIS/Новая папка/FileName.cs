@@ -9,5 +9,6 @@ namespace PR4_VIS.Новая_папка
     internal class FileName
     {
         // комментарий
+        // изменить строку файла
     }
 }
