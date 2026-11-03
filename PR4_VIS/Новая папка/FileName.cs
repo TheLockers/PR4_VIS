@@ -9,6 +9,10 @@ namespace PR4_VIS.Новая_папка
     internal class FileName
     {
         // комментарий
+<<<<<<< HEAD
         // закоммитить по другому
+=======
+        // закоммитить вапще по другому
+>>>>>>> conflict-branch
     }
 }
