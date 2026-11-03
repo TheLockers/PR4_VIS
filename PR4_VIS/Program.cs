@@ -82,6 +82,8 @@
             Report.PrintResults(sortedAnketas, errors, totalLinesCount);
 
             Storage.SaveToFiles(sortedAnketas, errors);
+
+            ModuleVajnie.ModulePrint();
         }
     }
 }
